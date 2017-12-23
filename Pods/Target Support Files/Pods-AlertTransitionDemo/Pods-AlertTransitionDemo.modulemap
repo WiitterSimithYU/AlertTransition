@@ -1,0 +1,6 @@
+framework module Pods_AlertTransitionDemo {
+  umbrella header "Pods-AlertTransitionDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}
